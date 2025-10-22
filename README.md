@@ -24,8 +24,4 @@ Criar algo “Natty” (natural) com IA foi um desafio interessante.
 Percebi que com personalidade bem feita e criatividade, a IA consegue gerar resultados surpreendentemente realistas.
 A fronteira entre o “real” e o “gerado” é cada vez mais sutil — e isso mostra o poder (e responsabilidade) de usar essas ferramentas de forma criativa e ética.
 
-## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
